@@ -3,7 +3,7 @@ import { Counter } from './Challenge2';
 
 // More on how to set up stories at: https://storybook.js.org/docs/writing-stories#default-export
 const meta = {
-  title: 'Challenge/2',
+  title: 'Challenge/練習問題2',
   component: Counter,
   parameters: {
     // Optional parameter to center the component in the Canvas. More info: https://storybook.js.org/docs/configure/story-layout

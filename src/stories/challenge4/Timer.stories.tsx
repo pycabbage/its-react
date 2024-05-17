@@ -3,7 +3,7 @@ import { Timer } from './Timer';
 
 // More on how to set up stories at: https://storybook.js.org/docs/writing-stories#default-export
 const meta = {
-  title: 'Challenge/4',
+  title: 'Challenge/練習問題4',
   component: Timer,
   parameters: {
     // Optional parameter to center the component in the Canvas. More info: https://storybook.js.org/docs/configure/story-layout
