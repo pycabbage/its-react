@@ -1,3 +1,3 @@
 # 研修のReact
 
-https://pycabbage.github.io/
+https://pycabbage.github.io/its-react/
